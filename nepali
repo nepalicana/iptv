@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="NEPALI CHANNELS",NTV HD
+https://nepaltv.nettvnepal.com.np/notoken/NTVNEPAL1500.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/2.png" group-title="NEPALI CHANNELS",NTV Plus HD
+https://nepaltv.nettvnepal.com.np/notoken/hd-NtvPlus-1500.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/3.png" group-title="NEPALI CHANNELS",NTV News HD
+https://nepaltv.nettvnepal.com.np/notoken/hd-NtvNews-1500.stream/chunks.m3u8
+
+#EXTINF:-1 tvg logo="https://ntv.newitventure.com//images/channel_logos/4.png" group-title="NEPALI CHANNELS",NTV Kohalpur HD
+https://nepaltv.nettvnepal.com.np/notoken/netNTVKOHALPUR1500.stream/chunks.m3u8
+
+#EXTINF:-1 tvg logo="https://ntv.newitventure.com//images/channel_logos/600.png" group-title="NEPALI CHANNELS",NTV Itahari HD
+https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
+
+#EXTINF:-1 tvg logo="https://jcss-cdn.ekantipur.com//kantipur-tv/images/ktv-hd.png" group-title="NEPALI CHANNELS",Kantipur TV HD
+https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
