@@ -18,4 +18,7 @@ https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
 #EXTINF:-1 tvg logo="https://jcss-cdn.ekantipur.com/kantipur-tv/images/ktv-hd.png" group-title="NEPALI CHANNELS",Kantipur TV HD
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
 
+#EXTIN:-1 tvg logo="https://www.news24nepal.tv/wp-content/themes/news24nepal/img/logo.png?x81153" group-title="NEPALI CHANNELS",News24 Nepal
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584646956/ei/zHZzXvDBA_aHssUP67OFkA0/ip/27.34.104.249/id/OgHZINmGxA0.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r9---sn-bvvbax-3uhs.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/3640/mh/w2/mm/44/mn/sn-bvvbax-3uhs/ms/lva/mv/m/mvi/8/nh/IgppcjAxLmt0bTAyKg0yMDIuNzkuNDAuMjI4/pl/24/dover/11/keepalive/yes/mt/1584625280/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRgIhAI2ppv2ybJotTA6jE7gWQvGOfZn10_ngtlDx0mDgI4V9AiEA5wVgxMQnKWotsJqQ6Ki1oECtn9DWVR6FX7QsmPVcFIQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,nh,pl/lsig/ABSNjpQwRgIhALNAHpYwwf6tYZXk5_BDSSLddtsiQ97SgAi9LTV3WE_RAiEA55teeeie8C_DuNC8Pw8AOpZqt1xEJYMW7mt6unrDZn0%3D/playlist/index.m3u8
+
 #http://tiny.cc/cjfklz
