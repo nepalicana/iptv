@@ -26,6 +26,9 @@ http://tiny.cc/vnkklz
 #EXTINF:-1 tvg-logo="" group-title="NEPALI CHANNELS",ABC Nepal
 http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NEPALI CHANNELS",Image Channel Nepal
+http://imagetvonline.imagekhabar.com:1935/live/image/playlist.m3u8
+
 
 #EXTINF:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nat-geo-wild-logo.jpg" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
@@ -55,5 +58,14 @@ http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="XXX",Babestation
+#EXTINF:-1 tvg-logo="" group-title="XXX",BSX24
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="XXX",Alba XXX HD 2
+http://iptvtree.net:8080/zhongjin/82394d2392a2/70724
+
+#EXTINF:-1 tvg-logo="" group-title="XXX",Alba XXX HD 2
+http://iptvtree.net:8080/zhongjin/82394d2392a2/58069
+
+#EXTINF:-1 tvg-logo="" group-title="XXX",Alba XXX 6
+http://iptvtree.net:8080/zhongjin/82394d2392a2/60324
