@@ -23,6 +23,9 @@ https://ktvhdnpicc66.ekantipur.com/ktv_abr/hd/playlist.m3u8
 #EXTINF:-1 tvg logo="https://www.news24nepal.tv/wp-content/themes/news24nepal/img/logo.png" group-title="NEPALI CHANNELS",News24 Nepal
 http://tiny.cc/vnkklz
 
+#EXTINF:-1 tvg-logo="" group-title="NEPALI CHANNELS",ABC Nepal
+http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
+
 
 #EXTINF:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nat-geo-wild-logo.jpg" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
@@ -39,3 +42,18 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
 
 #EXTINF:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-axn-logo.jpg" group-title="ENTERTAINMENT",AXN HD
 http://210.210.155.66/h/h141/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",BBC News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",Sky News HD
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Fox Sports News HD
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="XXX",Babestation
+http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
