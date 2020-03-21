@@ -15,10 +15,27 @@ https://nepaltv.nettvnepal.com.np/notoken/netNTVKOHALPUR1500.stream/chunks.m3u8
 #EXTINF:-1 tvg logo="https://ntv.newitventure.com/images/channel_logos/600.png" group-title="NEPALI CHANNELS",NTV Itahari HD
 https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
 
-#EXTINF:-1 tvg logo="https://jcss-cdn.ekantipur.com/kantipur-tv/images/ktv-hd.png" group-title="NEPALI CHANNELS",Kantipur TV HD
+#EXTINF:-1 tvg logo="https://jcss-cdn.ekantipur.com/kantipur-tv/images/ktv-hd.png" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 1)
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
+#EXTINF:-1 tvg logo="https://jcss-cdn.ekantipur.com/kantipur-tv/images/ktv-hd.png" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 2)
+https://ktvhdnpicc66.ekantipur.com/ktv_abr/hd/playlist.m3u8
 
-#EXTIN:-1 tvg logo="https://www.news24nepal.tv/wp-content/themes/news24nepal/img/logo.png?x81153" group-title="NEPALI CHANNELS",News24 Nepal
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1584646956/ei/zHZzXvDBA_aHssUP67OFkA0/ip/27.34.104.249/id/OgHZINmGxA0.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r9---sn-bvvbax-3uhs.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/3640/mh/w2/mm/44/mn/sn-bvvbax-3uhs/ms/lva/mv/m/mvi/8/nh/IgppcjAxLmt0bTAyKg0yMDIuNzkuNDAuMjI4/pl/24/dover/11/keepalive/yes/mt/1584625280/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/ADKhkGMwRgIhAI2ppv2ybJotTA6jE7gWQvGOfZn10_ngtlDx0mDgI4V9AiEA5wVgxMQnKWotsJqQ6Ki1oECtn9DWVR6FX7QsmPVcFIQ%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,nh,pl/lsig/ABSNjpQwRgIhALNAHpYwwf6tYZXk5_BDSSLddtsiQ97SgAi9LTV3WE_RAiEA55teeeie8C_DuNC8Pw8AOpZqt1xEJYMW7mt6unrDZn0%3D/playlist/index.m3u8
+#EXTIN:-1 tvg logo="https://www.news24nepal.tv/wp-content/themes/news24nepal/img/logo.png" group-title="NEPALI CHANNELS",News24 Nepal
+http://tiny.cc/vnkklz
 
-#http://tiny.cc/cjfklz
+
+#EXTIN:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nat-geo-wild-logo.jpg" group-title="PEOPLE, WILD & ADVENTURE",Nat Geo WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTIN:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nat-geo-people-tv-channel-logo-100x100.jpg" group-title="PEOPLE, WILD & ADVENTURE",Nat Geo PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+
+#EXTIN:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/national-geographic-channel-ngc-logo.jpg" group-title="PEOPLE, WILD & ADVENTURE",Nat Geo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTIN:-1 tvg logo="https://i.pinimg.com/736x/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6--history-channel-aliens-history.jpg" group-title="PEOPLE, WILD & ADVENTURE",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
+
+
+#EXTIN:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-axn-logo.jpg" group-title="ENTERTAINMENT",AXN HD
+http://210.210.155.66/h/h141/index.m3u8
