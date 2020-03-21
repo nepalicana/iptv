@@ -20,22 +20,22 @@ https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
 #EXTINF:-1 tvg logo="https://jcss-cdn.ekantipur.com/kantipur-tv/images/ktv-hd.png" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 2)
 https://ktvhdnpicc66.ekantipur.com/ktv_abr/hd/playlist.m3u8
 
-#EXTIN:-1 tvg logo="https://www.news24nepal.tv/wp-content/themes/news24nepal/img/logo.png" group-title="NEPALI CHANNELS",News24 Nepal
+#EXTINF:-1 tvg logo="https://www.news24nepal.tv/wp-content/themes/news24nepal/img/logo.png" group-title="NEPALI CHANNELS",News24 Nepal
 http://tiny.cc/vnkklz
 
 
-#EXTIN:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nat-geo-wild-logo.jpg" group-title="PEOPLE, WILD & ADVENTURE",Nat Geo WILD
+#EXTINF:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nat-geo-wild-logo.jpg" group-title="PEOPLE, WILD & ADVENTURE",Nat Geo WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
-#EXTIN:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nat-geo-people-tv-channel-logo-100x100.jpg" group-title="PEOPLE, WILD & ADVENTURE",Nat Geo PEOPLE
+#EXTINF:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nat-geo-people-tv-channel-logo-100x100.jpg" group-title="PEOPLE, WILD & ADVENTURE",Nat Geo PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
-#EXTIN:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/national-geographic-channel-ngc-logo.jpg" group-title="PEOPLE, WILD & ADVENTURE",Nat Geo
+#EXTINF:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/national-geographic-channel-ngc-logo.jpg" group-title="PEOPLE, WILD & ADVENTURE",Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTIN:-1 tvg logo="https://i.pinimg.com/736x/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6--history-channel-aliens-history.jpg" group-title="PEOPLE, WILD & ADVENTURE",H2
+#EXTINF:-1 tvg logo="https://i.pinimg.com/736x/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6--history-channel-aliens-history.jpg" group-title="PEOPLE, WILD & ADVENTURE",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
 
 
-#EXTIN:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-axn-logo.jpg" group-title="ENTERTAINMENT",AXN HD
+#EXTINF:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sony-axn-logo.jpg" group-title="ENTERTAINMENT",AXN HD
 http://210.210.155.66/h/h141/index.m3u8
