@@ -2,43 +2,32 @@
 
 #EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="NEPALI CHANNELS",NTV HD
 https://nepaltv.nettvnepal.com.np/notoken/NTVNEPAL1500.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/2.png" group-title="NEPALI CHANNELS",NTV Plus HD
 https://nepaltv.nettvnepal.com.np/notoken/hd-NtvPlus-1500.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/3.png" group-title="NEPALI CHANNELS",NTV News HD
 https://nepaltv.nettvnepal.com.np/notoken/hd-NtvNews-1500.stream/chunks.m3u8
-
 #EXTINF:-1 tvg logo="https://ntv.newitventure.com/images/channel_logos/4.png" group-title="NEPALI CHANNELS",NTV Kohalpur HD
 https://nepaltv.nettvnepal.com.np/notoken/netNTVKOHALPUR1500.stream/chunks.m3u8
-
 #EXTINF:-1 tvg logo="https://ntv.newitventure.com/images/channel_logos/600.png" group-title="NEPALI CHANNELS",NTV Itahari HD
 https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
-
 #EXTINF:-1 tvg logo="https://jcss-cdn.ekantipur.com/kantipur-tv/images/ktv-hd.png" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 1)
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
 #EXTINF:-1 tvg logo="https://jcss-cdn.ekantipur.com/kantipur-tv/images/ktv-hd.png" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 2)
 https://ktvhdnpicc66.ekantipur.com/ktv_abr/hd/playlist.m3u8
-
 #EXTINF:-1 tvg logo="https://www.news24nepal.tv/wp-content/themes/news24nepal/img/logo.png" group-title="NEPALI CHANNELS",News24 Nepal
 http://tiny.cc/vnkklz
-
 #EXTINF:-1 tvg-logo="" group-title="NEPALI CHANNELS",ABC Nepal
 http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NEPALI CHANNELS",Image Channel Nepal
 http://imagetvonline.imagekhabar.com:1935/live/image/playlist.m3u8
 
 
 #EXTINF:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nat-geo-wild-logo.jpg" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
 #EXTINF:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/nat-geo-people-tv-channel-logo-100x100.jpg" group-title="PEOPLE WILD ADVENTURE",Nat Geo PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-
 #EXTINF:-1 tvg logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/national-geographic-channel-ngc-logo.jpg" group-title="PEOPLE WILD ADVENTURE",Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
 #EXTINF:-1 tvg logo="https://i.pinimg.com/736x/77/3c/0a/773c0af3c4f03a9beea97135c7960bb6--history-channel-aliens-history.jpg" group-title="PEOPLE WILD ADVENTURE",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
 
@@ -49,7 +38,6 @@ http://210.210.155.66/h/h141/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",BBC News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NEWS",Sky News HD
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 
@@ -60,18 +48,3 @@ http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1
 
 #EXTINF:-1 tvg-logo="" group-title="XXX",BSX24
 http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="XXX",Alba XXX HD 2
-http://iptvtree.net:8080/zhongjin/82394d2392a2/70724
-
-#EXTINF:-1 tvg-logo="" group-title="XXX",Alba XXX HD 2
-http://iptvtree.net:8080/zhongjin/82394d2392a2/58069
-
-#EXTINF:-1 tvg-logo="" group-title="XXX",Alba XXX 6
-http://iptvtree.net:8080/zhongjin/82394d2392a2/60324
-
-#EXTINF:-1 tvg-logo="" group-title="XXX",Playboy TV FHD
-http://tv.factoryiptv.com:80/120298/120298/41513
-
-#EXTINF:-1 tvg-logo="" group-title="XXX",Venus HD
-http://tv.factoryiptv.com:80/120298/120298/61966
