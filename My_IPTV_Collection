@@ -15,14 +15,16 @@ https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="WORLD NEWS",CNA (SG) (Opt-2)
 http://45.126.83.51/uq2663/h/h29/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",CNN (US) (Opt-2)
-http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",CNN (USA)
+http://ott-cdn.ucom.am/s27/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="WORLD NEWS",France 24 (FR) (Opt-1)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="WORLD NEWS",Sky News (UK)
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="WORLD NEWS",ABC News (USA)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WBiCDLB.png" group-title="WORLD NEWS",FOX News (USA)
+http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="NEPALI CHANNELS",NTV HD
 https://nepaltv.nettvnepal.com.np/notoken/NTVNEPAL1500.stream/chunks.m3u8
@@ -55,6 +57,8 @@ http://45.58.62.92:8080
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzsBnvf.png" group-title="SPORTS",Horizon Sports (UK)
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sdrtuHJ.png" group-title="SPORTS",Fubo Sports Network (USA)
+http://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
