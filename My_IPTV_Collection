@@ -16,7 +16,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="WORLD NEWS",CNA (SG) (Opt-2)
 http://45.126.83.51/uq2663/h/h29/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",CNN (USA)
-http://ott-cdn.ucom.am/s27/index.m3u8
+http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10749
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="WORLD NEWS",France 24 (FR) (Opt-1)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="WORLD NEWS",Sky News (UK)
