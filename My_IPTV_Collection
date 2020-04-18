@@ -61,7 +61,7 @@ https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo PEOPLE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
