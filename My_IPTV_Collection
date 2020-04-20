@@ -42,6 +42,8 @@ https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
 https://ktvhdnpicc66.ekantipur.com/ktv_abr/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/46/image" group-title="NEPALI CHANNELS",News24 Nepal
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1586180256/ei/QNyKXuH2N43-owPf5brQBA/ip/27.34.68.112/id/OgHZINmGxA0.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAJNP6DspBgo6LRDzt8FeEE_uSQnmcPyHWzVCmcnLrDEvAiA1M4yOK-oxW5COpVyaQdG1mj8-Gw_15x_jrbYZfT7wkg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.nettvnepal.com.np//images/channel_logos/474.png" group-title="NEPALI CHANNELS",Himalaya TV SD
+https://ottstream.prabhutv.com.np/live-abr/Himalaya-abrSD.stream/live-abr/hd-himalaya-480.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.abcnepal.tv/wp-content/themes/ABCtv/images/logo1.png" group-title="NEPALI CHANNELS",ABC Nepal
 http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/48/image" group-title="NEPALI CHANNELS",Image Channel Nepal
