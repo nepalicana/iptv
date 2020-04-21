@@ -37,7 +37,7 @@ https://nepaltv.nettvnepal.com.np/notoken/netNTVKOHALPUR1500.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ntv.newitventure.com/images/channel_logos/600.png" group-title="NEPALI CHANNELS",NTV Itahari HD
 https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/41/image" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 1)
-https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
+https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/41/image" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 2)
 https://ktvhdnpicc66.ekantipur.com/ktv_abr/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/46/image" group-title="NEPALI CHANNELS",News24 Nepal
