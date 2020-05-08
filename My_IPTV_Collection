@@ -91,6 +91,12 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
 http://livefr.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="PEOPLE WILD ADVENTURE",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",HGTV (USA) [YSS]
+http://cdn.yoursports.stream/hgtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Investigation Discovery (USA) [YSS]
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD (USA)
+http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/BBC-America-Logo-1.png" group-title="ENTERTAINMENT", BBC America (USA)
 http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10697
