@@ -91,9 +91,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
 http://livefr.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="PEOPLE WILD ADVENTURE",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",HGTV (USA) [YSS]
+#EXTINF:-1 tvg-logo="https://realscreen.com/wp/wp-content/uploads/2020/01/HGTV1.jpg" group-title="PEOPLE WILD ADVENTURE",HGTV (USA) [YSS]
 http://cdn.yoursports.stream/hgtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Investigation Discovery (USA) [YSS]
+#EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/eff6155302cc7d102b225b0afdc8afab/L0KzQYm3VMAzN6Ftj5H0aYP2gLBuTflvfpZ4jNtwYYTsf7A0hPl0a5D7feRELYTofLb9igNqd58ye9pqbn7ofH7zjBdwNZVuRdt3dnX2hLruggRqd58yTdNsMXXkQLbogcEyO2QzT6UCNUS1Qoi4VcIzPmY8UKIBNkm5RnB3jvc=/kisspng-investigation-discovery-television-channel-logo-di-investigation-5ac1ea0eaa1133.7375422715226578066966.png" group-title="PEOPLE WILD ADVENTURE",Investigation Discovery (USA) [YSS]
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD (USA)
 http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8
