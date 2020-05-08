@@ -38,7 +38,7 @@ https://nepaltv.nettvnepal.com.np/notoken/hd-NtvNews-1500.stream/chunks.m3u8
 https://nepaltv.nettvnepal.com.np/notoken/netNTVKOHALPUR1500.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ntv.newitventure.com/images/channel_logos/600.png" group-title="NEPALI CHANNELS",NTV Itahari HD
 https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/41/image" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 1)
+#EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/41/image" group-title="NEPALI CHANNELS",Kantipur TV UHD (OPT 1)
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/41/image" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 2)
 https://ktvhdnpicc66.ekantipur.com/ktv_abr/hd/playlist.m3u8
@@ -77,7 +77,36 @@ http://fast.iptvhdstream.xyz:8090/live/Unplugged/66122/3309.m3u8
 #EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="SPORTS",Premier Sports 2 (UK)
 http://104.218.60.145:83/live/Elonge/4049153347@/309582.m3u8
 >>>>>>> 6820501d1ed0e116f81310d74ec095713d26aadf
-
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD (Opt-2)
+http://supertv.iptv.rentals:83/live/dircharlie/90393092/309255.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-2-new-logo.png" group-title="SPORTS",BT Sports 2
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-3-new-logo.png" group-title="SPORTS",BT Sports 3
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-espn-new.png" group-title="SPORTS",BT Sports ESPN
+http://stream.tvtap.live:8081/live/espnuk.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="SPORTS",Premier Sports 1
+http://stream.tvtap.live:8081/live/prem.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-action.png" group-title="SPORTS",Sky Sports Action
+http://stream.tvtap.live:8081/live/skysportsaction.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-arena.png" group-title="SPORTS",Sky Sports Arena
+http://stream.tvtap.live:8081/live/skysports-arena.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-cric.png" group-title="SPORTS",Sky Sports Cricket
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-foot.png" group-title="SPORTS",Sky Sports Football
+http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/skymain.png" group-title="SPORTS",Sky Sports Main Event
+http://stream.tvtap.live:8081/live/skysports-maineventz.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vodzilla.co/wp-content/uploads/2016/08/sky-sports-mix-700x320.jpg" group-title="SPORTS",Sky Sports Mix
+http://stream.tvtap.live:8081/live/skysportsmix.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1314-Mobile-Logo.svg" group-title="SPORTS",Sky Sports News
+http://stream.tvtap.live:8081/live/skysportsnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Sky-Sports-Premier-League.png" group-title="SPORTS",Sky Sports Premier League
+http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-golf.png" group-title="SPORTS",Sky Sports Golf
+http://stream.tvtap.live:8081/live/skysports-the-open.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
@@ -97,6 +126,30 @@ http://cdn.yoursports.stream/hgtv.m3u8
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD (USA)
 http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo (USA)
+http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/431-4310932_find-your-audience-discovery-science-logo-hd-png.png" group-title="PEOPLE WILD ADVENTURE",Discovery Science (USA)
+http://stream.tvtap.live:8081/live/us-discoveryscience.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/67db571dec13afd6a51d8fc953434ac6/L0KzQYm3VMA1N5hqfZH0aYP2gLBuTfRqe5R0jtd7eT3meLL1jvVtNZ10f9G2dHXvdcfwkBlwdl5ogNN3bnXvPbXwkBNwfpZ3Rdt3dnX2hLruggRqd58yTdNsNHW7drO9VfExaWEzS6UEMEGzQIe4VcIzQGY5SaUENEG5Q3B3jvc=/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb65a0a0.3390100615228541394163.png" group-title="PEOPLE WILD ADVENTURE",Discovery (USA)
+http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="PEOPLE WILD ADVENTURE",Animal Planet (USA)
+http://stream.tvtap.live:8081/live/us-animal.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_461/MTU0MDYzNjQ2MzI4NzYwMDU5/velocity-logopng.webp" group-title="PEOPLE WILD ADVENTURE",Discovery Velocity (USA)
+http://stream.tvtap.live:8081/live/discoveryvelo.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="PEOPLE WILD ADVENTURE",Animal Planet (UK)
+http://stream.tvtap.live:8081/live/ap.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/67db571dec13afd6a51d8fc953434ac6/L0KzQYm3VMA1N5hqfZH0aYP2gLBuTfRqe5R0jtd7eT3meLL1jvVtNZ10f9G2dHXvdcfwkBlwdl5ogNN3bnXvPbXwkBNwfpZ3Rdt3dnX2hLruggRqd58yTdNsNHW7drO9VfExaWEzS6UEMEGzQIe4VcIzQGY5SaUENEG5Q3B3jvc=/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb65a0a0.3390100615228541394163.png" group-title="PEOPLE WILD ADVENTURE",Discovery (UK)
+http://stream.tvtap.live:8081/live/discovery.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Discovery_History_logo.svg" group-title="PEOPLE WILD ADVENTURE",Discovery History (UK)
+http://stream.tvtap.live:8081/live/discoveryh.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/431-4310932_find-your-audience-discovery-science-logo-hd-png.png" group-title="PEOPLE WILD ADVENTURE",Discovery Science (UK)
+http://stream.tvtap.live:8081/live/discoverys.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Discovery_Shed_logo_distressed_silver.png/revision/latest/scale-to-width-down/200?cb=20100413144844" group-title="PEOPLE WILD ADVENTURE",Discovery Shed (UK)
+http://stream.tvtap.live:8081/live/discoveryshed.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="PEOPLE WILD ADVENTURE",Discovery Turbo (UK)
+http://stream.tvtap.live:8081/live/discoveryturbo.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/eff6155302cc7d102b225b0afdc8afab/L0KzQYm3VMAzN6Ftj5H0aYP2gLBuTflvfpZ4jNtwYYTsf7A0hPl0a5D7feRELYTofLb9igNqd58ye9pqbn7ofH7zjBdwNZVuRdt3dnX2hLruggRqd58yTdNsMXXkQLbogcEyO2QzT6UCNUS1Qoi4VcIzPmY8UKIBNkm5RnB3jvc=/kisspng-investigation-discovery-television-channel-logo-di-investigation-5ac1ea0eaa1133.7375422715226578066966.png" group-title="PEOPLE WILD ADVENTURE",Investigation Discovery (UK)
+http://stream.tvtap.live:8081/live/discoveryi.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/BBC-America-Logo-1.png" group-title="ENTERTAINMENT", BBC America (USA)
 http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10697
@@ -110,6 +163,10 @@ http://supertv.iptv.rentals:83/live/dircharlie/90393092/374190.m3u8
 #EXTINF:-1 tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-starmovieshd-png-361.png" group-title="ENTERTAINMENT",Star Movies HD (Arab)
 http://fast.iptvhdstream.xyz:8090/live/Unplugged/66122/21882.m3u8
 >>>>>>> 6820501d1ed0e116f81310d74ec095713d26aadf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="KIDS",Boomerang (USA)
+http://stream.tvtap.live:8081/live/us-boomerang.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="KIDS",Boomerang HD
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J3mj3RG.png" group-title="MUSIC",VH1 (USA)
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
