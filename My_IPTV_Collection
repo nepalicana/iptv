@@ -39,7 +39,7 @@ https://nepaltv.nettvnepal.com.np/notoken/netNTVKOHALPUR1500.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ntv.newitventure.com/images/channel_logos/600.png" group-title="NEPALI CHANNELS",NTV Itahari HD
 https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/41/image" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 1)
-https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
+https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/41/image" group-title="NEPALI CHANNELS",Kantipur TV HD (OPT 2)
 https://ktvhdnpicc66.ekantipur.com/ktv_abr/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://resources.geniustv.geniussystems.com.np//livetv/channels/46/image" group-title="NEPALI CHANNELS",News24 Nepal
@@ -60,6 +60,7 @@ http://45.58.62.92:8080
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="SPORTS",Tennis Channel Plus (USA)
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzsBnvf.png" group-title="SPORTS",Horizon Sports (UK)
+<<<<<<< HEAD
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="SPORTS",beIN Sports (USA)
 http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8
@@ -69,6 +70,13 @@ http://live.highstream.club/live/NBCSN/chunks.m3u8
 http://live.highstream.club/live/WWE/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://sportsfly.cbsistatic.com/fly-680/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" group-title="SPORTS",CBSN (USA)
 http://live.highstream.club/live/CBSSPORTSNETWORK/chunks.m3u8
+=======
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-logo="https://acrossthepondplblog.files.wordpress.com/2019/07/23e25587-cc92-42b3-bb78-603bc6cbc1ea.png" group-title="SPORTS",beIN Sports (USA)
+http://fast.iptvhdstream.xyz:8090/live/Unplugged/66122/3309.m3u8
+#EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="SPORTS",Premier Sports 2 (UK)
+http://104.218.60.145:83/live/Elonge/4049153347@/309582.m3u8
+>>>>>>> 6820501d1ed0e116f81310d74ec095713d26aadf
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
@@ -86,11 +94,16 @@ http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
 #EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/BBC-America-Logo-1.png" group-title="ENTERTAINMENT", BBC America (USA)
 http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10697
+<<<<<<< HEAD
 #EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/BBC-America-Logo-1.png" group-title="ENTERTAINMENT", BBC America (USA) (OPT-2)
 http://live.highstream.club/live/BBCAmerica/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tvplayer.com/landing/images/204.png" group-title="ENTERTAINMENT", ITV1 (UK) [dailym3uiptv]
 http://supertv.iptv.rentals:83/live/dircharlie/90393092/374190.m3u8
 
+=======
+#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-starmovieshd-png-361.png" group-title="ENTERTAINMENT",Star Movies HD (Arab)
+http://fast.iptvhdstream.xyz:8090/live/Unplugged/66122/21882.m3u8
+>>>>>>> 6820501d1ed0e116f81310d74ec095713d26aadf
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J3mj3RG.png" group-title="MUSIC",VH1 (USA)
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
