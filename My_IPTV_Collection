@@ -171,6 +171,8 @@ http://stream.tvtap.live:8081/live/discoveryturbo.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/discoveryi.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",DIY (US) [YSS]
 http://cdn.yoursports.stream/diy.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d0/4d/08/d04d088d-6114-2c12-03b6-542f23be2802/mzl.prdnejjl.png/460x0w.png" group-title="PEOPLE WILD ADVENTURE",BBC Earth UHD (IN) [Crew]
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1592215481~acl=%2f*~data=hdntl~hmac=755bc57f55ba381aab4809efd4b68f45c26904a2ea8c66af7e461d9ed05afbee/master_3500.m3u8
 
 === ENTERTAINMENT ===
 ##EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/BBC-America-Logo-1.png" group-title="ENTERTAINMENT", BBC America (USA)
