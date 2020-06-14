@@ -74,6 +74,12 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 #https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" group-title="SPORTS",beIN Sports (USA)
 http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",beIN Sports (USA) [liveonscore.net]
+http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Sports XTRA (US) [Crew]
+https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://videotron.com/vtrn/images/channels/logos/bein-sports-es/bein-sports-es-moyenne.png" group-title="SPORTS",beIN Sports LaLiga (US) [60fps]
+http://34.120.54.17/live/la/chunks.m3u8
 ##EXTINF:-1 tvg-logo="https://acrossthepondplblog.files.wordpress.com/2019/07/23e25587-cc92-42b3-bb78-603bc6cbc1ea.png" group-title="SPORTS",beIN Sports (USA) (OPT-2)
 #http://fast.iptvhdstream.xyz:8090/live/Unplugged/66122/3309.m3u8
 #EXTINF:-1 tvg-logo="https://www.signspecialist.com/decals/logos2/images/NBC%20SPORTS.gif" group-title="SPORTS",NBCSN Sports (USA)
@@ -125,12 +131,6 @@ http://stream.tvtap.live:8081/live/skysportsnews.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-golf.png" group-title="SPORTS",Sky Sports Golf
 http://stream.tvtap.live:8081/live/skysports-the-open.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",beIN Sports (US) [liveonscore.net]
-http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Sports XTRA (US) [Crew]
-https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://videotron.com/vtrn/images/channels/logos/bein-sports-es/bein-sports-es-moyenne.png" group-title="SPORTS",beIN Sports LaLiga (US) [60fps]
-http://34.120.54.17/live/la/chunks.m3u8
 
 === PEOPLE WILD ADVENTURE ===
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
