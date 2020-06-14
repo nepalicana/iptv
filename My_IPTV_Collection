@@ -78,6 +78,10 @@ http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8
 http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Sports XTRA (US) [Crew]
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.pn" group-title="SPORTS",beIN Sports 1 (US) [60fps]
+http://34.120.54.17/live/en/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.pn" group-title="SPORTS",beIN Sports 1 (US) [60fps] OPT-2
+http://34.120.54.17/live/en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://videotron.com/vtrn/images/channels/logos/bein-sports-es/bein-sports-es-moyenne.png" group-title="SPORTS",beIN Sports LaLiga (US) [60fps]
 http://34.120.54.17/live/la/chunks.m3u8
 ##EXTINF:-1 tvg-logo="https://acrossthepondplblog.files.wordpress.com/2019/07/23e25587-cc92-42b3-bb78-603bc6cbc1ea.png" group-title="SPORTS",beIN Sports (USA) (OPT-2)
