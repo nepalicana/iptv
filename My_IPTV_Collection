@@ -125,6 +125,8 @@ http://stream.tvtap.live:8081/live/skysportsnews.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-golf.png" group-title="SPORTS",Sky Sports Golf
 http://stream.tvtap.live:8081/live/skysports-the-open.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",beIN Sports (US) [liveonscore.net]
+http://weak_spell.carniferou.club/edge/Bein/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",beIN Sports XTRA (US) [Crew]
 https://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://videotron.com/vtrn/images/channels/logos/bein-sports-es/bein-sports-es-moyenne.png" group-title="SPORTS",beIN Sports LaLiga (US) [60fps]
