@@ -98,43 +98,45 @@ https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="SPORTS",Premier Sports 2 (UK)
 http://104.218.60.145:83/live/Elonge/4049153347@/309582.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+http://live.highstream.club/live/BTSPORT1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD (OPT-2)
-http://supertv.iptv.rentals:83/live/dircharlie/90393092/309255.m3u8
+https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD (OPT-3) [WS]
 http://live.highstream.club/live/BTSPORT1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-2-new-logo.png" group-title="SPORTS",BT Sports 2
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-2-new-logo.png" group-title="SPORTS",BT Sports 2 (OPT-2) [WS]
 http://live.highstream.club/live/BTSPORT2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-3-new-logo.png" group-title="SPORTS",BT Sports 3
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/uk-btsport3hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-3-new-logo.png" group-title="SPORTS",BT Sports 3 (OPT-2) [WS]
 http://live.highstream.club/live/BTSPORT3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-espn-new.png" group-title="SPORTS",BT Sports ESPN
-http://stream.tvtap.live:8081/live/espnuk.stream/chunks.m3u8
+http://145.239.255.4:8080/espnhd/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-espn-new.png" group-title="SPORTS",BT Sports ESPN (OPT-2) [WS]
 http://live.highstream.club/live/BTSPORTESPN/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="SPORTS",Premier Sports 1
 http://stream.tvtap.live:8081/live/prem.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-action.png" group-title="SPORTS",Sky Sports Action
-http://stream.tvtap.live:8081/live/skysportsaction.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-arena.png" group-title="SPORTS",Sky Sports Arena
-http://stream.tvtap.live:8081/live/skysports-arena.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-cric.png" group-title="SPORTS",Sky Sports Cricket
-http://stream.tvtap.live:8081/live/skysports-cricket1.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-foot.png" group-title="SPORTS",Sky Sports Football
-http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/skymain.png" group-title="SPORTS",Sky Sports Main Event
-http://stream.tvtap.live:8081/live/skysports-maineventz.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://vodzilla.co/wp-content/uploads/2016/08/sky-sports-mix-700x320.jpg" group-title="SPORTS",Sky Sports Mix
 http://stream.tvtap.live:8081/live/skysportsmix.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1314-Mobile-Logo.svg" group-title="SPORTS",Sky Sports News
-http://stream.tvtap.live:8081/live/skysportsnews.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Sky-Sports-Premier-League.png" group-title="SPORTS",Sky Sports Premier League
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-golf.png" group-title="SPORTS",Sky Sports Golf
-http://stream.tvtap.live:8081/live/skysports-the-open.stream/chunks.m3u8
+https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sports F1
+https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
 
 === PEOPLE WILD ADVENTURE ===
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
