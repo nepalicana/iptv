@@ -127,6 +127,8 @@ https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/skymain.png" group-title="SPORTS",Sky Sports Main Event
 https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/skymain.png" group-title="SPORTS",Sky Sports Main Event (OPT-2)
+https://ul.cdn946.net:8443/hls/kf236.m3u8?s=pwIBKYY21pdop2Blw4PtiA&e=1593815863
 #EXTINF:-1 tvg-logo="https://vodzilla.co/wp-content/uploads/2016/08/sky-sports-mix-700x320.jpg" group-title="SPORTS",Sky Sports Mix
 http://stream.tvtap.live:8081/live/skysportsmix.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1314-Mobile-Logo.svg" group-title="SPORTS",Sky Sports News
