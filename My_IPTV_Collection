@@ -227,4 +227,4 @@ http://34.120.226.215/live/p1/chunks.m3u8
 http://server2.sportnews.to/live/abr_news2/live/news2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDEyOjEwOjA0IFBNJmhhc2hfdmFsdWU9ZmtlVFBHaS9nRDBJUTd2d0kvclcxZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MTYyLjE1OC4zNC4xMjUmc3RybV9sZW49NQ==
 
 #EXTINF:-1 tvg-logo="" group-title="Live Events",Real Valladolid vs Barcelona 
-http://server2.sportnews.to/live/abr_2-Footy/live/2-Footy_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDE6NDk6MjYgUE0maGFzaF92YWx1ZT1hQmJpRjlreUVtZWV1QStNSjA0RzFBPT0mdmFsaWRtaW51dGVzPTMwMCZpZD0xNjIuMTU4LjM0LjIzMyZzdHJtX2xlbj01
+http://45.134.21.230:8081/abr/abr-P-3/hls/P-3/chunks.m3u8
