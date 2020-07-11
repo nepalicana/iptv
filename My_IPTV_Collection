@@ -222,3 +222,6 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 === LIVE EVENTS ===
 #EXTINF:-1 tvg-logo="" group-title="Live Events",Lazio vs Sassuolo
 http://34.120.226.215/live/p1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Live Events",Lazio vs Sassuolo (opt2)
+http://server2.sportnews.to/live/abr_news2/live/news2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDEyOjEwOjA0IFBNJmhhc2hfdmFsdWU9ZmtlVFBHaS9nRDBJUTd2d0kvclcxZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MTYyLjE1OC4zNC4xMjUmc3RybV9sZW49NQ==
