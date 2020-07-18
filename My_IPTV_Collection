@@ -18,8 +18,8 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://45.126.83.51/uq2663/h/h29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="WORLD NEWS",CNA UHD (SG) (OPT-2) [GITHUB]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-##EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",CNN (USA)
-#http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10749
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",CNN (USA)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",CNN (USA) (OPT-2) [YSS]
 http://live.highstream.club/live/CNN/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="WORLD NEWS",France 24 (FR) (OPT-1)
