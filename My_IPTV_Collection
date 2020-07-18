@@ -187,6 +187,8 @@ http://stream.tvtap.live:8081/live/discoveryi.stream/chunks.m3u8
 https://content-auso3.uplynk.com/channel/480d1ff42e924413990ee0eeb693ce9f/i.m3u8?tc=1&exp=1595044749&rn=1096308760&ct=c&cid=480d1ff42e924413990ee0eeb693ce9f&ts=1595044449&endts=1595044809&ad.pingf=5&pp2ip=0&ad.cping=1&ad=fw&rays=cdefghiba&ad.customer_id=&ad.nw=&ad.prof=&ad.csid=&ad.vip=18.218.24.5&ad.kv=_fw_vcid2%2C%3A1a2951dd296e11e99d4c0a39f64aabce%2C_fw_enable_lat_fc%2C1&ap.use=0&sig=d7cad8c1716de9fa50fb13378b8085cbcd1a248347ef7f72a46b060c472515ea&pbs=6e487f004ad542578b8c66d686890a42
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d0/4d/08/d04d088d-6114-2c12-03b6-542f23be2802/mzl.prdnejjl.png/460x0w.png" group-title="PEOPLE WILD ADVENTURE",BBC Earth UHD (IN) [Crew]
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1592215481~acl=%2f*~data=hdntl~hmac=755bc57f55ba381aab4809efd4b68f45c26904a2ea8c66af7e461d9ed05afbee/master_3500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",TLC (US) [YSS]
+http://cdn.findsports.stream/tlc.m3u8
 
 === ENTERTAINMENT ===
 ##EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/BBC-America-Logo-1.png" group-title="ENTERTAINMENT", BBC America (USA)
