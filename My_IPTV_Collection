@@ -20,7 +20,7 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://45.126.83.51/uq2663/h/h29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="WORLD NEWS",CNA UHD (SG) (OPT-2) [GITHUB]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",CNN (USA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",CNN (USA) [sports24]
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="WORLD NEWS",CNN (USA) (OPT-2) [YSS]
 http://live.highstream.club/live/CNN/chunks.m3u8
@@ -103,12 +103,12 @@ http://104.218.60.145:83/live/Elonge/4049153347@/309582.m3u8
 http://live.highstream.club/live/BTSPORT1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD (OPT-2)
 https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD (OPT-3) [WS]
-http://live.highstream.club/live/BTSPORT1/chunks.m3u8
+##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD (OPT-3) [buffstream.live/tv]
+#https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=hJjMs0hJ_MQtHG9OE0Fvwg&e=1595458577
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-2-new-logo.png" group-title="SPORTS",BT Sports 2
 https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-2-new-logo.png" group-title="SPORTS",BT Sports 2 (OPT-2) [WS]
-http://live.highstream.club/live/BTSPORT2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-2-new-logo.png" group-title="SPORTS",BT Sports 2 (OPT-2) [buffstream.live/tv]
+https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=hJjMs0hJ_MQtHG9OE0Fvwg&e=1595458577
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-3-new-logo.png" group-title="SPORTS",BT Sports 3
 https://cdn-laos.workpoint.news/uk-btsport3hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-3-new-logo.png" group-title="SPORTS",BT Sports 3 (OPT-2) [WS]
@@ -155,6 +155,8 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 http://188.35.9.11:21151/udp/186o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo (POL) [LiveTVStreams]
+http://188.35.9.11:21031/udp/034x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",History (POL) [LiveTVStreams]
 http://188.35.9.11:21121/udp/128c
 #EXTINF:-1 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="PEOPLE WILD ADVENTURE",H2
@@ -185,8 +187,8 @@ http://stream.tvtap.live:8081/live/ap.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/discovery.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Discovery_History_logo.svg" group-title="PEOPLE WILD ADVENTURE",Discovery History (UK)
 http://stream.tvtap.live:8081/live/discoveryh.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/431-4310932_find-your-audience-discovery-science-logo-hd-png.png" group-title="PEOPLE WILD ADVENTURE",Discovery Science (UK)
-http://stream.tvtap.live:8081/live/discoverys.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/431-4310932_find-your-audience-discovery-science-logo-hd-png.png" group-title="PEOPLE WILD ADVENTURE",Discovery Science (POL) [LiveTVStreams]
+http://188.35.9.11:21151/udp/188k
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Discovery_Shed_logo_distressed_silver.png/revision/latest/scale-to-width-down/200?cb=20100413144844" group-title="PEOPLE WILD ADVENTURE",Discovery Shed (UK)
 http://stream.tvtap.live:8081/live/discoveryshed.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="PEOPLE WILD ADVENTURE",Discovery Turbo (UK)
@@ -244,8 +246,8 @@ http://34.120.226.215/live/p1/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Events",Lazio vs Sassuolo (opt2)
 http://server2.sportnews.to/live/abr_news2/live/news2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDEyOjEwOjA0IFBNJmhhc2hfdmFsdWU9ZmtlVFBHaS9nRDBJUTd2d0kvclcxZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MTYyLjE1OC4zNC4xMjUmc3RybV9sZW49NQ==
 
-#EXTINF:-1 tvg-logo="" group-title="Live Events",Real Valladolid vs Barcelona 
+#EXTINF:-1 tvg-logo="" group-title="Live Events",Real Valladolid vs Barcelona
 http://45.134.21.230:8081/abr/abr-P-3/hls/P-3/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Live Events",Watford vs Newcastle United 
+#EXTINF:-1 tvg-logo="" group-title="Live Events",Watford vs Newcastle United
 http://server1.sportnews.to/live/abr_news1/live/news1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIwIDExOjA0OjM1IEFNJmhhc2hfdmFsdWU9RVE2ZTZ5bnpLSkNPQkptdUlZcHBqQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MTYyLjE1OC4zNC4xNjEmc3RybV9sZW49NQ==
