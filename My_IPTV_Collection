@@ -143,10 +143,16 @@ https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
 === PEOPLE WILD ADVENTURE ===
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD (POL) [LiveTVStreams]
+http://188.35.9.11:21121/udp/126z
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo PEOPLE (POL) [LiveTVStreams]
+http://188.35.9.11:21151/udp/186o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",History (POL) [LiveTVStreams]
+http://188.35.9.11:21121/udp/128c
 #EXTINF:-1 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="PEOPLE WILD ADVENTURE",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="PEOPLE WILD ADVENTURE",CGTN Documentary (OPT-2)
@@ -185,8 +191,8 @@ http://stream.tvtap.live:8081/live/discoveryturbo.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/discoveryi.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",DIY (US) [YSS]
 http://cdn.findsports.stream/diy.m3u8
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d0/4d/08/d04d088d-6114-2c12-03b6-542f23be2802/mzl.prdnejjl.png/460x0w.png" group-title="PEOPLE WILD ADVENTURE",BBC Earth UHD (IN) [Crew]
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1592215481~acl=%2f*~data=hdntl~hmac=755bc57f55ba381aab4809efd4b68f45c26904a2ea8c66af7e461d9ed05afbee/master_3500.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d0/4d/08/d04d088d-6114-2c12-03b6-542f23be2802/mzl.prdnejjl.png/460x0w.png" group-title="PEOPLE WILD ADVENTURE",BBC Earth UHD (PO) [LiveTVStreams]
+http://188.35.9.11:21151/udp/156z
 
 === ENTERTAINMENT ===
 ##EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/BBC-America-Logo-1.png" group-title="ENTERTAINMENT", BBC America (USA)
