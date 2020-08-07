@@ -28,6 +28,8 @@ http://live.highstream.club/live/CNN/chunks.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="WORLD NEWS",Sky News (UK)
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="WORLD NEWS",DW News (DW)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="WORLD NEWS",ABC News (USA)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ##EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WBiCDLB.png" group-title="WORLD NEWS",FOX News (USA)
