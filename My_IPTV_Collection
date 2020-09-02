@@ -65,11 +65,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1586180124/ei/v
 
 === SPORTS ===
 
-#EXTINF:-1,BEIN SPORTS USA
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",beIN Sports (USA) [discord_livetvstreams_sports.txt]
 http://139.99.17.52:8081/liveorigin/us-bein_480/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS HD 11
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",BEIN SPORTS HD 11
 http://139.99.17.52:8081/liveorigin/hd-bein11_480/playlist.m3u8
-#EXTINF:-1,BEIN SPORTS HD 12
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",BEIN SPORTS HD 12
 http://139.99.17.52:8081/liveorigin/hd-bein12_480/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="SPORTS",Fox Sports 1 HD (USA) [WS]
