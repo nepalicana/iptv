@@ -64,6 +64,14 @@ http://imagetvonline.imagekhabar.com:1935/live/image/playlist.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1586180124/ei/vNuKXrmOLd_44-EPra2vyA4/ip/27.34.68.112/id/r-CYkcHPnaY.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgSsif2A5sx1Ftle3k0Vo7OHXxwqsPFHarO7Nbjq38eAoCIQDAvHxrOVieuxE-szlaO5VOeEZ_O56K-8YW2Q0dADB5zw%3D%3D/file/index.m3u8
 
 === SPORTS ===
+
+#EXTINF:-1,BEIN SPORTS USA
+http://139.99.17.52:8081/liveorigin/us-bein_480/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS HD 11
+http://139.99.17.52:8081/liveorigin/hd-bein11_480/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS HD 12
+http://139.99.17.52:8081/liveorigin/hd-bein12_480/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="SPORTS",Fox Sports 1 HD (USA) [WS]
 http://live.highstream.club/live/FS1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="SPORTS",Fox Sports 2 HD (USA) [WS]
