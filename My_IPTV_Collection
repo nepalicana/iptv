@@ -153,6 +153,10 @@ https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sports F1
 https://cdn-laos.workpoint.news/uk-skysports-f1_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN (Opt-1)
+http://213.152.161.254:8080/upl8_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN (Opt-2)
+https://gma2.blab.email/fs2.m3u8
 
 === PEOPLE WILD ADVENTURE ===
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD
@@ -206,7 +210,6 @@ http://stream.tvtap.live:8081/live/discoveryturbo.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/eff6155302cc7d102b225b0afdc8afab/L0KzQYm3VMAzN6Ftj5H0aYP2gLBuTflvfpZ4jNtwYYTsf7A0hPl0a5D7feRELYTofLb9igNqd58ye9pqbn7ofH7zjBdwNZVuRdt3dnX2hLruggRqd58yTdNsMXXkQLbogcEyO2QzT6UCNUS1Qoi4VcIzPmY8UKIBNkm5RnB3jvc=/kisspng-investigation-discovery-television-channel-logo-di-investigation-5ac1ea0eaa1133.7375422715226578066966.png" group-title="PEOPLE WILD ADVENTURE",Investigation Discovery (UK)
 http://stream.tvtap.live:8081/live/discoveryi.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",DIY (US) [YSS]
-<<<<<<< HEAD
 http://cdn.findsports.stream/diy.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d0/4d/08/d04d088d-6114-2c12-03b6-542f23be2802/mzl.prdnejjl.png/460x0w.png" group-title="PEOPLE WILD ADVENTURE",BBC Earth UHD (PO) [LiveTVStreams]
 http://188.35.9.11:21151/udp/156z
