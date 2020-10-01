@@ -12,6 +12,10 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="WORLD NEWS",BBC World News (GB) (OPT-2)
 http://5.135.92.133:52841/out/u/131_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="WORLD NEWS",BBC World News (GB) (OPT-3)
+http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8?checkedby:livetvanywhere.com
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="WORLD NEWS",BBC News (UK)
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="WORLD NEWS",CGTN (CN)
