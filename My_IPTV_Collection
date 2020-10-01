@@ -76,6 +76,9 @@ http://139.99.17.52:8081/liveorigin/hd-bein11_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",BEIN SPORTS HD 12
 http://139.99.17.52:8081/liveorigin/hd-bein12_480/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",BEIN SPORTS HD 13
+http://185.246.210.55:2200/EX/beIN_Sports_13_HD-ar/tracks-v1a1/mono.m3u8?token=RED_MztOiQZQYlhokpoDuP2n6g==,1601621382.0316535914
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="SPORTS",Fox Sports 1 HD (USA) [WS]
 http://live.highstream.club/live/FS1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="SPORTS",Fox Sports 2 HD (USA) [WS]
