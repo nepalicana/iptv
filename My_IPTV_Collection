@@ -120,6 +120,7 @@ https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="SPORTS",Premier Sports 2 (UK)
 http://104.218.60.145:83/live/Elonge/4049153347@/309582.m3u8
+
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD (OPT-2)
@@ -138,18 +139,22 @@ https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #http://145.239.255.4:8080/espnhd/mono.m3u8?token=test
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-espn-new.png" group-title="SPORTS",BT Sports ESPN (OPT-2) [WS]
 #http://live.highstream.club/live/BTSPORTESPN/chunks.m3u8
+
 ##EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="SPORTS",Premier Sports 1
 #http://stream.tvtap.live:8081/live/prem.stream/chunks.m3u8
+
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-action.png" group-title="SPORTS",Sky Sports Action
 #https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-arena.png" group-title="SPORTS",Sky Sports Arena
 #https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-cric.png" group-title="SPORTS",Sky Sports Cricket
 http://89.187.169.203:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=
-##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-foot.png" group-title="SPORTS",Sky Sports Football
-#https://cdn-laos.workpoint.news/uk-skysports-football_720/index.m3u8
-##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/skymain.png" group-title="SPORTS",Sky Sports Main Event
-#https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-cric.png" group-title="SPORTS",Sky Sports Cricket (OPT-2) [discord]
+http://54.36.165.216:85/SkySport2HD/tracks-v1a1/mono.m3u8?token=test&token=test
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-foot.png" group-title="SPORTS",Sky Sports Football
+http://89.187.169.203:2200/EX/Sky_Sports_Football_HD-uk/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/skymain.png" group-title="SPORTS",Sky Sports Main Event
+http://89.187.169.203:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?token=
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/skymain.png" group-title="SPORTS",Sky Sports Main Event (OPT-2)
 #https://ul.cdn946.net:8443/hls/kf236.m3u8?s=pwIBKYY21pdop2Blw4PtiA&e=1593815863
 ##EXTINF:-1 tvg-logo="https://vodzilla.co/wp-content/uploads/2016/08/sky-sports-mix-700x320.jpg" group-title="SPORTS",Sky Sports Mix
