@@ -112,7 +112,7 @@ http://34.120.82.157/live/la/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.signspecialist.com/decals/logos2/images/NBC%20SPORTS.gif" group-title="SPORTS",NBCSN Sports (USA)
 http://live.highstream.club/live/NBCSN/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://t0.rbxcdn.com/f5b9cd390fd075085f39428fc3a6b38e" group-title="SPORTS",WWE (USA) [WS]
-http://live.highstream.club/live/WWE/chunks.m3u8
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/683002
 #EXTINF:-1 tvg-logo="https://sportsfly.cbsistatic.com/fly-680/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" group-title="SPORTS",CBSN (USA) [WS]
 http://live.highstream.club/live/CBSSPORTSNETWORK/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://sportsfly.cbsistatic.com/fly-680/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" group-title="SPORTS",Horizon Sports (UK)
