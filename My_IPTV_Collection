@@ -70,7 +70,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1586180124/ei/v
 === SPORTS ===
 
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",beIN Sports (USA) [discord_livetvstreams_sports.txt]
-http://139.99.17.52:8081/liveorigin/us-bein_480/playlist.m3u8
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/4902.ts
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",BEIN SPORTS HD 11 [discord_livetvstreams_sports]
 http://dx4.gcdn.co/UKS1757/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",BEIN SPORTS HD 12 [discord_livetvstreams_sports]
@@ -78,15 +78,15 @@ http://dx4.gcdn.co/UKS1758/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",BEIN SPORTS HD 13 [discord_livetvstreams_sports]
 http://dx4.gcdn.co/UKS1759/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-LGd_F7YJ5iaq9HQwVW6dGTyRJL7rnwL_5w&usqp=CAU" group-title="SPORTS",SuperSport Premier League [LiveTVStreams]
-http://dx4.gcdn.co/UKS1762/index.m3u8
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/678029.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-LGd_F7YJ5iaq9HQwVW6dGTyRJL7rnwL_5w&usqp=CAU" group-title="SPORTS",SuperSport LaLiga [LiveTVStreams]
-http://dx4.gcdn.co/UKS1763/index.m3u8
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/683001.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR-LGd_F7YJ5iaq9HQwVW6dGTyRJL7rnwL_5w&usqp=CAU" group-title="SPORTS",SuperSport Football [LiveTVStreams]
-http://dx4.gcdn.co/UKS1764/index.m3u8
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/678024.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="SPORTS",Fox Sports 1 HD (USA) [WS]
-http://live.highstream.club/live/FS1/chunks.m3u8
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/137256.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="SPORTS",Fox Sports 2 HD (USA) [WS]
-http://live.highstream.club/live/FS2/chunks.m3u8
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/494259.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="SPORTS",Fox Sports News HD (AUS)
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="SPORTS",Fox Sports HD (UK)
@@ -110,16 +110,19 @@ http://34.120.82.157/live/la/chunks.m3u8
 ##EXTINF:-1 tvg-logo="https://acrossthepondplblog.files.wordpress.com/2019/07/23e25587-cc92-42b3-bb78-603bc6cbc1ea.png" group-title="SPORTS",beIN Sports (USA) (OPT-2)
 #http://fast.iptvhdstream.xyz:8090/live/Unplugged/66122/3309.m3u8
 #EXTINF:-1 tvg-logo="https://www.signspecialist.com/decals/logos2/images/NBC%20SPORTS.gif" group-title="SPORTS",NBCSN Sports (USA)
-http://live.highstream.club/live/NBCSN/chunks.m3u8
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/4952.ts
 #EXTINF:-1 tvg-logo="https://t0.rbxcdn.com/f5b9cd390fd075085f39428fc3a6b38e" group-title="SPORTS",WWE (USA) [WS]
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/683002
 #EXTINF:-1 tvg-logo="https://sportsfly.cbsistatic.com/fly-680/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" group-title="SPORTS",CBSN (USA) [WS]
-http://live.highstream.club/live/CBSSPORTSNETWORK/chunks.m3u8
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/6342.ts
 #EXTINF:-1 tvg-logo="https://sportsfly.cbsistatic.com/fly-680/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" group-title="SPORTS",Horizon Sports (UK)
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="SPORTS",Premier Sports 1 (UK)
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/683998.ts 
+
 #EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="SPORTS",Premier Sports 2 (UK)
-http://104.218.60.145:83/live/Elonge/4049153347@/309582.m3u8
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/684000.ts
 
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-1-new-logo.png" group-title="SPORTS",BT Sports 1 HD
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -131,8 +134,8 @@ http://ipflix.click:8080/7tq8p3sdtp/dr665145ew/683002
 https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-2-new-logo.png" group-title="SPORTS",BT Sports 2 (OPT-2) [buffstream.live/tv]
 #https://ul.cdn946.net:8443/hls/y4rwgm0v9jcya.m3u8?s=hJjMs0hJ_MQtHG9OE0Fvwg&e=1595458577
-##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-3-new-logo.png" group-title="SPORTS",BT Sports 3
-#https://cdn-laos.workpoint.news/uk-btsport3hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-3-new-logo.png" group-title="SPORTS",BT Sports 3
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/683856.ts
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-3-new-logo.png" group-title="SPORTS",BT Sports 3 (OPT-2) [WS]
 #http://live.highstream.club/live/BTSPORT3/chunks.m3u8
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/bt-sport-espn-new.png" group-title="SPORTS",BT Sports ESPN
@@ -143,28 +146,28 @@ https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 ##EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="SPORTS",Premier Sports 1
 #http://stream.tvtap.live:8081/live/prem.stream/chunks.m3u8
 
-##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-action.png" group-title="SPORTS",Sky Sports Action
-#https://cdn-laos.workpoint.news/uk-skysports-action_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-action.png" group-title="SPORTS",Sky Sports Action
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/674011.ts
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-arena.png" group-title="SPORTS",Sky Sports Arena
-#https://cdn-laos.workpoint.news/uk-skysports-arena_720/index.m3u8
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/7926.ts
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-cric.png" group-title="SPORTS",Sky Sports Cricket
-http://89.187.169.203:2200/EX/Sky_Sports_Cricket_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/683767.ts
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-cric.png" group-title="SPORTS",Sky Sports Cricket (OPT-2) [discord]
 http://54.36.165.216:85/SkySport2HD/tracks-v1a1/mono.m3u8?token=test&token=test
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-foot.png" group-title="SPORTS",Sky Sports Football
-http://89.187.169.203:2200/EX/Sky_Sports_Football_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/683759.ts
 #EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/skymain.png" group-title="SPORTS",Sky Sports Main Event
-http://89.187.169.203:2200/EX/Sky_Sports_Main_Event_HD-uk/tracks-v1a1/mono.m3u8?token=
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/683736.ts
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/skymain.png" group-title="SPORTS",Sky Sports Main Event (OPT-2)
 #https://ul.cdn946.net:8443/hls/kf236.m3u8?s=pwIBKYY21pdop2Blw4PtiA&e=1593815863
-##EXTINF:-1 tvg-logo="https://vodzilla.co/wp-content/uploads/2016/08/sky-sports-mix-700x320.jpg" group-title="SPORTS",Sky Sports Mix
-#http://stream.tvtap.live:8081/live/skysportsmix.stream/chunks.m3u8
-##EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1314-Mobile-Logo.svg" group-title="SPORTS",Sky Sports News
-#https://cdn-laos.workpoint.news/uk-skysports-news_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://vodzilla.co/wp-content/uploads/2016/08/sky-sports-mix-700x320.jpg" group-title="SPORTS",Sky Sports Mix
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/683754.ts
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1314-Mobile-Logo.svg" group-title="SPORTS",Sky Sports News
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/683758.ts
 ##EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1314-Mobile-Logo.svg" group-title="SPORTS",Sky Sports News (OPT-2) [jamie]
 #http://cdn7.cr7.live/live/ch3/chunks.m3u8
-##EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Sky-Sports-Premier-League.png" group-title="SPORTS",Sky Sports Premier League
-#https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Sky-Sports-Premier-League.png" group-title="SPORTS",Sky Sports Premier League
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/683787.ts
 ##EXTINF:-1 tvg-logo="https://zynetv.net/wp-content/uploads/sky-golf.png" group-title="SPORTS",Sky Sports Golf
 #https://cdn-laos.workpoint.news/uk-skysports-golf_720/index.m3u8
 ##EXTINF:-1 tvg-logo="" group-title="SPORTS",Sky Sports F1
