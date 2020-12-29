@@ -187,22 +187,22 @@ http://188.35.9.11:21151/udp/186o
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo (POL) [LiveTVStreams]
 http://188.35.9.11:21031/udp/034x
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",History (POL) [LiveTVStreams]
-http://188.35.9.11:21121/udp/128c
-#EXTINF:-1 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="PEOPLE WILD ADVENTURE",H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",History (UK) [xtreams]
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/677938.ts
+#EXTINF:-1 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="PEOPLE WILD ADVENTURE",H2 (UK) [xtream]
+http://ipflix.click:8080/live/bqhlsgo1cc/6wz9yc7pt/6596.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="PEOPLE WILD ADVENTURE",CGTN Documentary (OPT-2)
 http://livefr.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="PEOPLE WILD ADVENTURE",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://realscreen.com/wp/wp-content/uploads/2020/01/HGTV1.jpg" group-title="PEOPLE WILD ADVENTURE",HGTV (USA) [WS]
-https://content-auso3.uplynk.com/channel/e047db886d7b42499309a9d3f9e12a7e/i.m3u8?tc=1&exp=1595047757&rn=205259910&ct=c&cid=e047db886d7b42499309a9d3f9e12a7e&ts=1595047457&endts=1595047817&ad.pingf=5&pp2ip=0&ad.cping=1&ad=fw&rays=cdefghiba&ad.customer_id=&ad.nw=&ad.prof=&ad.csid=&ad.vip=18.218.24.5&ad.kv=_fw_vcid2%2C%3Ad808d1275db911e8949a121ca4d54ab6%2C_fw_enable_lat_fc%2C1&ap.use=0&sig=f2ee919b7eabd025b139c7f8104694c8ccf09e39b44a6f9589902accf27ec1c3&pbs=db69b86965834560859c9d5cd8ad7648
+http://ipflix.click:8080/live/3nmc6puflt/vblaq7qczs/14348.ts
 #EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/eff6155302cc7d102b225b0afdc8afab/L0KzQYm3VMAzN6Ftj5H0aYP2gLBuTflvfpZ4jNtwYYTsf7A0hPl0a5D7feRELYTofLb9igNqd58ye9pqbn7ofH7zjBdwNZVuRdt3dnX2hLruggRqd58yTdNsMXXkQLbogcEyO2QzT6UCNUS1Qoi4VcIzPmY8UKIBNkm5RnB3jvc=/kisspng-investigation-discovery-television-channel-logo-di-investigation-5ac1ea0eaa1133.7375422715226578066966.png" group-title="PEOPLE WILD ADVENTURE",Investigation Discovery (USA) [YSS]
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo WILD (USA)
-http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8
+http://ipflix.click:8080/live/3nmc6puflt/vblaq7qczs/13745.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo (USA)
-http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8
+http://ipflix.click:8080/live/3nmc6puflt/vblaq7qczs/4881.ts
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/431-4310932_find-your-audience-discovery-science-logo-hd-png.png" group-title="PEOPLE WILD ADVENTURE",Discovery Science (USA)
 http://ipflix.click:8080/live/uoplj5soni/rgu4a63btk/684762.ts
 #EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/67db571dec13afd6a51d8fc953434ac6/L0KzQYm3VMA1N5hqfZH0aYP2gLBuTfRqe5R0jtd7eT3meLL1jvVtNZ10f9G2dHXvdcfwkBlwdl5ogNN3bnXvPbXwkBNwfpZ3Rdt3dnX2hLruggRqd58yTdNsNHW7drO9VfExaWEzS6UEMEGzQIe4VcIzQGY5SaUENEG5Q3B3jvc=/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb65a0a0.3390100615228541394163.png" group-title="PEOPLE WILD ADVENTURE",Discovery (USA)
