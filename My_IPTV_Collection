@@ -204,17 +204,17 @@ http://stream.tvtap.live:8081/live/us-natgeowild.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="PEOPLE WILD ADVENTURE",Nat Geo (USA)
 http://stream.tvtap.live:8081/live/us-natgeo.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/431-4310932_find-your-audience-discovery-science-logo-hd-png.png" group-title="PEOPLE WILD ADVENTURE",Discovery Science (USA)
-http://stream.tvtap.live:8081/live/us-discoveryscience.stream/chunks.m3u8
+http://ipflix.click:8080/live/uoplj5soni/rgu4a63btk/684762.ts
 #EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/67db571dec13afd6a51d8fc953434ac6/L0KzQYm3VMA1N5hqfZH0aYP2gLBuTfRqe5R0jtd7eT3meLL1jvVtNZ10f9G2dHXvdcfwkBlwdl5ogNN3bnXvPbXwkBNwfpZ3Rdt3dnX2hLruggRqd58yTdNsNHW7drO9VfExaWEzS6UEMEGzQIe4VcIzQGY5SaUENEG5Q3B3jvc=/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb65a0a0.3390100615228541394163.png" group-title="PEOPLE WILD ADVENTURE",Discovery (USA)
-http://stream.tvtap.live:8081/live/us-discovery.stream/chunks.m3u8
+http://ipflix.click:8080/live/uoplj5soni/rgu4a63btk/14373.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="PEOPLE WILD ADVENTURE",Animal Planet (USA)
-http://stream.tvtap.live:8081/live/us-animal.stream/chunks.m3u8
+http://ipflix.click:8080/live/uoplj5soni/rgu4a63btk/14393.ts
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_461/MTU0MDYzNjQ2MzI4NzYwMDU5/velocity-logopng.webp" group-title="PEOPLE WILD ADVENTURE",Discovery Velocity (USA)
 http://stream.tvtap.live:8081/live/discoveryvelo.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="PEOPLE WILD ADVENTURE",Animal Planet (UK)
 http://stream.tvtap.live:8081/live/ap.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/67db571dec13afd6a51d8fc953434ac6/L0KzQYm3VMA1N5hqfZH0aYP2gLBuTfRqe5R0jtd7eT3meLL1jvVtNZ10f9G2dHXvdcfwkBlwdl5ogNN3bnXvPbXwkBNwfpZ3Rdt3dnX2hLruggRqd58yTdNsNHW7drO9VfExaWEzS6UEMEGzQIe4VcIzQGY5SaUENEG5Q3B3jvc=/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb65a0a0.3390100615228541394163.png" group-title="PEOPLE WILD ADVENTURE",Discovery (UK)
-http://stream.tvtap.live:8081/live/discovery.stream/chunks.m3u8
+http://mytv.fun:8080/live/Sefaguney/euoqdy14ri/684097.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Discovery_History_logo.svg" group-title="PEOPLE WILD ADVENTURE",Discovery History (UK)
 http://stream.tvtap.live:8081/live/discoveryh.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/431-4310932_find-your-audience-discovery-science-logo-hd-png.png" group-title="PEOPLE WILD ADVENTURE",Discovery Science (POL) [LiveTVStreams]
@@ -224,17 +224,17 @@ http://stream.tvtap.live:8081/live/discoveryshed.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="PEOPLE WILD ADVENTURE",Discovery Turbo (UK)
 http://stream.tvtap.live:8081/live/discoveryturbo.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/eff6155302cc7d102b225b0afdc8afab/L0KzQYm3VMAzN6Ftj5H0aYP2gLBuTflvfpZ4jNtwYYTsf7A0hPl0a5D7feRELYTofLb9igNqd58ye9pqbn7ofH7zjBdwNZVuRdt3dnX2hLruggRqd58yTdNsMXXkQLbogcEyO2QzT6UCNUS1Qoi4VcIzPmY8UKIBNkm5RnB3jvc=/kisspng-investigation-discovery-television-channel-logo-di-investigation-5ac1ea0eaa1133.7375422715226578066966.png" group-title="PEOPLE WILD ADVENTURE",Investigation Discovery (UK)
-http://stream.tvtap.live:8081/live/discoveryi.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",DIY (US) [YSS]
-http://cdn.findsports.stream/diy.m3u8
+http://mytv.fun:8080/live/Sefaguney/euoqdy14ri/9521.ts
+#EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",DIY (US) [xtream]
+http://mytv.fun:8080/live/Sefaguney/euoqdy14ri/675417.ts
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d0/4d/08/d04d088d-6114-2c12-03b6-542f23be2802/mzl.prdnejjl.png/460x0w.png" group-title="PEOPLE WILD ADVENTURE",BBC Earth UHD (PO) [LiveTVStreams]
 http://188.35.9.11:21151/udp/156z
 =======
 https://content-auso3.uplynk.com/channel/480d1ff42e924413990ee0eeb693ce9f/i.m3u8?tc=1&exp=1595044749&rn=1096308760&ct=c&cid=480d1ff42e924413990ee0eeb693ce9f&ts=1595044449&endts=1595044809&ad.pingf=5&pp2ip=0&ad.cping=1&ad=fw&rays=cdefghiba&ad.customer_id=&ad.nw=&ad.prof=&ad.csid=&ad.vip=18.218.24.5&ad.kv=_fw_vcid2%2C%3A1a2951dd296e11e99d4c0a39f64aabce%2C_fw_enable_lat_fc%2C1&ap.use=0&sig=d7cad8c1716de9fa50fb13378b8085cbcd1a248347ef7f72a46b060c472515ea&pbs=6e487f004ad542578b8c66d686890a42
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/d0/4d/08/d04d088d-6114-2c12-03b6-542f23be2802/mzl.prdnejjl.png/460x0w.png" group-title="PEOPLE WILD ADVENTURE",BBC Earth UHD (IN) [Crew]
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1592215481~acl=%2f*~data=hdntl~hmac=755bc57f55ba381aab4809efd4b68f45c26904a2ea8c66af7e461d9ed05afbee/master_3500.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",TLC (US) [YSS]
-http://cdn.findsports.stream/tlc.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",TLC (US) [xtream]
+http://mytv.fun:8080/live/Sefaguney/euoqdy14ri/13734.ts
 >>>>>>> fcb5bd6ebd6ff651b84ada1207b838c16584a52a 
 #EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",Sky Nature (UK) [xtream]
 http://mytv.fun:8080/live/Sefaguney/euoqdy14ri/676905.ts
