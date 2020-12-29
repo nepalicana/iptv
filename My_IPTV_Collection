@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="", () []
+
 ======  NEPALI CHANNELS  ======
 #EXTINF:-1 tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="NEPALI CHANNELS",NTV HD
 https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/chunks.m3u8
@@ -154,41 +154,41 @@ http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/672444.ts
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/672445.ts
 
 ===== SCIENCE & NATURE =====
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png",NAT GEO (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="SCIENCE & NATURE",NAT GEO (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/671383.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_us.png",NAT GEO PEOPLE (AR) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_us.png" group-title="SCIENCE & NATURE",NAT GEO PEOPLE (AR) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/685231.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png",NAT GEO WILD (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="SCIENCE & NATURE",NAT GEO WILD (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/6573.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png",DISCOVERY (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="SCIENCE & NATURE",DISCOVERY (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/684097.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/dd/discovery_history.png",DISCOVERY HISTORY (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_history.png" group-title="SCIENCE & NATURE",DISCOVERY HISTORY (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683794.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png",DISCOVERY TURBO (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="SCIENCE & NATURE",DISCOVERY TURBO (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/684074.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/dd/discovery-science-france-us-fr.png",DISCOVERY SCIENCE (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-france-us-fr.png" group-title="SCIENCE & NATURE",DISCOVERY SCIENCE (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/684064.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png",ANIMAL PLANET (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="SCIENCE & NATURE",ANIMAL PLANET (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683892.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/tt/tlc_lam.png",TLC (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_lam.png" group-title="SCIENCE & NATURE",TLC (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/671404.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/ff/fyi_us.png",FYI (US) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fyi_us.png" group-title="SCIENCE & NATURE",FYI (US) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/684717.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/dd/diy_network_us.png",DIY (US) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/diy_network_us.png" group-title="SCIENCE & NATURE",DIY (US) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/675417.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png",HGTV (US) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="SCIENCE & NATURE",HGTV (US) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/14348.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/bb/bbc_earth_uk.png",BBC EARTH (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_earth_uk.png" group-title="SCIENCE & NATURE",BBC EARTH (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683390.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/ss/sky-nature-uk.png",SKY NATURE (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-nature-uk.png" group-title="SCIENCE & NATURE",SKY NATURE (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/676905.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/hh/history_us.png",HISTORY CHANNEL (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="SCIENCE & NATURE",HISTORY CHANNEL (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/6597.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/hh/h2-latinoamerica-us.png",H2 (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="SCIENCE & NATURE",H2 (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/671406.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png",INVESTIGATION DISCOVERY (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="SCIENCE & NATURE",INVESTIGATION DISCOVERY (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683877.ts
-#EXTINF:-1 tvg-logo="" group-title="https://www.lyngsat.com/logo/tv/cc/crime_investigation_us.png",CRIME INVESTIGATION (US) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_investigation_us.png" group-title="SCIENCE & NATURE",CRIME INVESTIGATION (US) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/4879.ts
 
 
