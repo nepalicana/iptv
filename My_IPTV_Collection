@@ -235,7 +235,10 @@ https://content-auso3.uplynk.com/channel/480d1ff42e924413990ee0eeb693ce9f/i.m3u8
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1592215481~acl=%2f*~data=hdntl~hmac=755bc57f55ba381aab4809efd4b68f45c26904a2ea8c66af7e461d9ed05afbee/master_3500.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",TLC (US) [YSS]
 http://cdn.findsports.stream/tlc.m3u8
->>>>>>> fcb5bd6ebd6ff651b84ada1207b838c16584a52a
+>>>>>>> fcb5bd6ebd6ff651b84ada1207b838c16584a52a 
+#EXTINF:-1 tvg-logo="" group-title="PEOPLE WILD ADVENTURE",Sky Nature (UK) [xtream]
+http://mytv.fun:8080/live/Sefaguney/euoqdy14ri/676905.ts
+
 
 === ENTERTAINMENT ===
 ##EXTINF:-1 tvg-logo="http://logosolusa.com/wp-content/uploads/parser/BBC-America-Logo-1.png" group-title="ENTERTAINMENT", BBC America (USA)
