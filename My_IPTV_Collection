@@ -18,25 +18,25 @@ https://ktvhdnpicc66.ekantipur.com/ktv_abr/hd/playlist.m3u8
 
 
 ===== WORLD NEWS  =====
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="WORLD NEWS",Al Jazeera (QA)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_jazeera_english.png" group-title="WORLD NEWS",Al Jazeera (QA)
 http://i.mjh.nz/nz/tv.46.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BBC World News () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_world_news_uk.png" group-title="WORLD NEWS",BBC World News () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/671307.ts
-#EXTINF:-1 tvg-logo="" group-title="",BBC News () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png" group-title="WORLD NEWS",BBC News () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/671307.ts
-#EXTINF:-1 tvg-logo="" group-title="",Sky News () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.png" group-title="WORLD NEWS",Sky News () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683844.ts
-#EXTINF:-1 tvg-logo="" group-title="",CNN () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="WORLD NEWS",CNN () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/4919.ts
-#EXTINF:-1 tvg-logo="" group-title="",France24 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" group-title="WORLD NEWS",France24 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/9532.ts
-#EXTINF:-1 tvg-logo="" group-title="",DW English () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="WORLD NEWS",DW English () []
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CNA () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cna-sg.png" group-title="WORLD NEWS",CNA () []
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CTGN () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png" group-title="WORLD NEWS",CTGN () []
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Arirang () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang_kr.png" group-title="WORLD NEWS",Arirang () []
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 ===== ENTERTAINMENT =====
