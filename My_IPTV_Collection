@@ -91,66 +91,66 @@ http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683751.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.png" group-title="SPORTS",SKY SPORTS GOLF () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/684093.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",BT SPORTS 1 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT SPORTS 1 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683858.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",BT SPORTS 2 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT SPORTS 2 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683854.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",BT SPORTS 3 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT SPORTS 3 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683856.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",BT SPORTS ESPN () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-espn-uk.png" group-title="SPORTS",BT SPORTS ESPN () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683993.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",BEIN SPORTS () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_global.png" group-title="SPORTS",BEIN SPORTS () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/13759.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",BEIN SPORTS XTRA () []
+#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPORTS",BEIN SPORTS XTRA () []
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",BEIN SPORTS 11 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_11_hd.png" group-title="SPORTS",BEIN SPORTS 11 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683410.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",BEIN SPORTS 12 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_12_hd.png" group-title="SPORTS",BEIN SPORTS 12 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/15007.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",FOX SPORTS 1 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="SPORTS",FOX SPORTS 1 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/137256.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",FOX SPORTS 2 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="SPORTS",FOX SPORTS 2 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/494259.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",FOX SPORTS NEWS () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_news_au.png" group-title="SPORTS",FOX SPORTS NEWS () []
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="SPORTS",ESPN () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/14363.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",ESPN 2 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png" group-title="SPORTS",ESPN 2 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/677173.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",WWE () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="SPORTS",WWE () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/6347.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",WWE FHD () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="SPORTS",WWE FHD () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683883.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",NBCSN () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="SPORTS",NBCSN () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/682014.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",CBS SPORTS NETWORK () []
+#EXTINF:-1 tvg-logo="https://sportsfly.cbsistatic.com/fly-680/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" group-title="SPORTS",CBS SPORTS NETWORK () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/14385.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",PREMIER SPORTS 1 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-ie.png" group-title="SPORTS",PREMIER SPORTS 1 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683997.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",PREMIER SPORTS 2 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-ie.png" group-title="SPORTS",PREMIER SPORTS 2 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/684000.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",STAR SPORTS 1 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1.png" group-title="SPORTS",STAR SPORTS 1 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/5431.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",STAR SPORTS 2 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_2.png" group-title="SPORTS",STAR SPORTS 2 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/397844.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",STAR SPORTS 3 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_3.png" group-title="SPORTS",STAR SPORTS 3 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/3977.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",SONY SIX () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_six_in.png" group-title="SPORTS",SONY SIX () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/5436.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",SONY TEN 1 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1hd.png" group-title="SPORTS",SONY TEN 1 () []
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",SONY TEN 2 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",SONY TEN 2 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/672444.ts
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",SONY TEN 3 () []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",SONY TEN 3 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/672445.ts
 
 ===== SCIENCE & NATURE =====
