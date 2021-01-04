@@ -191,8 +191,9 @@ http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683877.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_investigation_us.png" group-title="SCIENCE & NATURE",CRIME INVESTIGATION (US) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/4879.ts
 
-
-#EXTINF:-1 tvg-logo="" group-title="", () []
+===== KIDS =====
+#EXTINF:-1 tvg-logo="" group-title="KIDS",Boomerang (UK) []
+http://ipflix.click:8080/live/uoplj5soni/rgu4a63btk/6651.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", () []
 
