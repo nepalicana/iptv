@@ -145,7 +145,7 @@ http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/397844.ts
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/3977.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_six_in.png" group-title="SPORTS",SONY SIX () []
-http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/5436.ts
+http://ipflix.click:8080/live/wwdwrntks4/88uzbam5ye/5436.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1hd.png" group-title="SPORTS",SONY TEN 1 () []
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",SONY TEN 2 () []
@@ -153,8 +153,11 @@ http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/672444.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",SONY TEN 3 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/672445.ts
 
-EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPORTS",LA LIGA TV FHD (UK) []
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPORTS",LA LIGA TV FHD (UK) []
 http://ipflix.click:8080/live/wwdwrntks4/88uzbam5ye/683833.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow_us.png" group-title="SPORTS",WILLOW HD (US) [] 
+http://ipflix.click:8080/live/3nmc6puflt/vblaq7qczs/677818.m3u8
 
 ===== SCIENCE & NATURE =====
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="SCIENCE & NATURE",NAT GEO (UK) []
