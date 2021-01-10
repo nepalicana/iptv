@@ -132,6 +132,9 @@ http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/682014.ts
 #EXTINF:-1 tvg-logo="https://sportsfly.cbsistatic.com/fly-680/bundles/sportsmediacss/images/fantasy/default-article-image-large.png" group-title="SPORTS",CBS SPORTS NETWORK () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/14385.ts
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS",NBA TV (US) []
+http://mytv.fun:8080/live/turhanpeker002/hubf11351r/6355.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-ie.png" group-title="SPORTS",PREMIER SPORTS 1 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/683997.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-sports-ie.png" group-title="SPORTS",PREMIER SPORTS 2 () []
