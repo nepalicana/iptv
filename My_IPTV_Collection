@@ -167,8 +167,8 @@ http://ipflix.click:8080/live/3nmc6puflt/vblaq7qczs/677818.m3u8
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/671383.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_us.png" group-title="SCIENCE & NATURE",NAT GEO PEOPLE (AR) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/685231.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="SCIENCE & NATURE",NAT GEO WILD (UK) []
-http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/6573.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="SCIENCE & NATURE",NAT GEO WILD (IN) []
+http://sansat.net:25461/stuD8dqRVtANmEq/cLOJ6Bpkl0/93662
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="SCIENCE & NATURE",DISCOVERY (UK) []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/684097.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_history.png" group-title="SCIENCE & NATURE",DISCOVERY HISTORY (UK) []
