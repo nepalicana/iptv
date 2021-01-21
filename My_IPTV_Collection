@@ -29,7 +29,7 @@ http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/683844.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png" group-title="WORLD NEWS",CNN () []
 http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/6630.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" group-title="WORLD NEWS",France24 () []
-http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/9532.m3u8
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="WORLD NEWS",DW English () []
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cna-sg.png" group-title="WORLD NEWS",CNA () []
@@ -51,17 +51,17 @@ http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/672450.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="ENTERTAINMENT",ZEE TV () []
 http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/672459.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="ENTERTAINMENT",COLOUR () []
-http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/672308.ts
+http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/651513.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_world_in_hd.png" group-title="ENTERTAINMENT",Star World () []
-http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/685212.ts
+http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/5913.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="ENTERTAINMENT",FOX () []
-http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/13757.ts
+http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/5048.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-uk.png" group-title="ENTERTAINMENT",ITV 1 () []
-http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/15731.ts
+http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/15731.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_2.png" group-title="ENTERTAINMENT",ITV 2 () []
-http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/15729.ts
+http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/6591.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv_uk_3.png" group-title="ENTERTAINMENT",ITV 3 () []
-http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/15727.ts
+http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/15727.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-one-uk.png" group-title="ENTERTAINMENT",BBC ONE () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/656966.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-two-uk.png" group-title="ENTERTAINMENT",BBC TWO () []
