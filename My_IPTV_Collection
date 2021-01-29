@@ -41,13 +41,15 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 ===== ENTERTAINMENT =====
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/set_in.png" group-title="ENTERTAINMENT",Sony SET () []
-http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/5574.m3u8
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209682
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png" group-title="ENTERTAINMENT",SAB () []
 http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/672322.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_pal_in.png" group-title="ENTERTAINMENT",PAL () []
 http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/676908.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_plus_hk_india.png" group-title="ENTERTAINMENT",Star Plus () []
 http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/672450.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="ENTERTAINMENT",STAR BHARAT (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209678
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="ENTERTAINMENT",ZEE TV () []
 http://tv.ipflix.click:8080/live/zhrktaqsvq/1v1rkn4hgd/672459.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-in.png" group-title="ENTERTAINMENT",COLOUR () []
@@ -147,14 +149,14 @@ http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/397844.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_3.png" group-title="SPORTS",STAR SPORTS 3 () []
 http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/3977.ts
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_six_in.png" group-title="SPORTS",SONY SIX () []
-http://ipflix.click:8080/live/wwdwrntks4/88uzbam5ye/5436.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1hd.png" group-title="SPORTS",SONY TEN 1 () []
-http://ipflix.click:8080/live/3nmc6puflt/vblaq7qczs/3972.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",SONY TEN 2 () []
-http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/672444.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",SONY TEN 3 () []
-http://ipflix.click:8080/live/cytlen2mj/xux0zh25i8l/672445.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony_six_in.png" group-title="SPORTS",SONY SIX (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209661
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1hd.png" group-title="SPORTS",SONY TEN 1 (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209660
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS",SONY TEN 2 (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209646
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",SONY TEN 3 (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209687
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" group-title="SPORTS",LA LIGA TV FHD (UK) []
 http://ipflix.click:8080/live/wwdwrntks4/88uzbam5ye/683833.m3u8
@@ -208,25 +210,29 @@ http://ipflix.click:8080/live/uoplj5soni/rgu4a63btk/683390.m3u8
 http://ipflix.click:8080/live/uoplj5soni/rgu4a63btk/6651.m3u8
 
 ===== MOVIES =====
-#EXTINF:-1 tvg-logo="" group-title="",COLOURS CINEPLEX (IN) []
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",COLORS CINEPLEX (IN) []
 http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209686
-#EXTINF:-1 tvg-logo="" group-title="", () []
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",RISTEY CINEPLEX (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209688
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",ZEE CINEMA HD (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209681
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",& PICTURES HD (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209675
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR GOLD HD (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209649
+#EXTINF:-1 tvg-logo="" group-title="",STAR GOLD 2 (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209507
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR GOLD SELECT HD (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209651
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR MOVIES (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209686
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",STAR MOVIES SELECT (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209555
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",B4U MOVIES (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209527
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",& EXPLOR (IN) []
+http://wearefriends.uk:80/h7PEZSpQt3/4uwDtKUEQb/209496
 
-#EXTINF:-1 tvg-logo="" group-title="", () []
-
-#EXTINF:-1 tvg-logo="" group-title="", () []
-
-#EXTINF:-1 tvg-logo="" group-title="", () []
-
-#EXTINF:-1 tvg-logo="" group-title="", () []
-
-#EXTINF:-1 tvg-logo="" group-title="", () []
-
-#EXTINF:-1 tvg-logo="" group-title="", () []
-
-#EXTINF:-1 tvg-logo="" group-title="", () []
-
-#EXTINF:-1 tvg-logo="" group-title="", () []
 
 #EXTINF:-1 tvg-logo="" group-title="", () []
 
